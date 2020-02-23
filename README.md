@@ -20,7 +20,7 @@ Get credentials of Twitter API, Google Vision API and ffmpeg
 	```python
   os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="yourfilename.json"
   ```
-- [ffmpeg]([http://ffmpeg.org/](http://ffmpeg.org/))
+- [ffmpeg](http://ffmpeg.org/)
 ## Assignment Question Answers
 
 -   How many API calls you can handle simultaneously and why?
