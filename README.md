@@ -24,11 +24,11 @@ Get credentials of Twitter API, Google Vision API and ffmpeg
 ## Assignment Question Answers
 
 -   How many API calls you can handle simultaneously and why?
-    My laptop is quad-core that it has 4 processors, so that it can handle 4 API calls simultaneously.
+    <br>My laptop is quad-core that it has 4 processors, so that it can handle 4 API calls simultaneously.
 -   For example, run different API calls at the same time?
-    It can run different API calls at the same time
+    <br>It can run different API calls at the same time
 -   Split the processing of an API into multiple threads?
-	  The processing of the API is split into 4 multiple threads.
+    <br>The processing of the API is split into 4 multiple threads.
 	
 ## Example Result
 The video result is in the output video folder accoding to each twitter account. 
