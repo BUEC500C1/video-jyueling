@@ -3,7 +3,7 @@ from tweepy import OAuthHandler
 import google_api
 import configparser
 from glob import glob
-import wget
+#import wget
 from PIL import Image, ImageDraw, ImageFont
 import urllib
 import shutil  
