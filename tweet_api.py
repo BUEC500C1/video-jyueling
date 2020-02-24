@@ -66,7 +66,7 @@ def createImg(text,filename):
     try:   
         img = Image.new('RGB', (300, 200), color = (0, 0, 0))
      
-        font = ImageFont.truetype('/Library/Fonts/Arial.ttf', 15)
+        font = ImageFont.truetype('Arial.ttf', 15)
         draw = ImageDraw.Draw(img)
         draw.text((10,10), textlist, font=font, fill=(255, 255, 0))
      
