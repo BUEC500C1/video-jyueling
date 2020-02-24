@@ -2,3 +2,5 @@ tweepy >= 3.8.0
 requests >= 2.21.0
 configparser
 pillow >= 4
+google-cloud == 0.34.0
+google-cloud-vision == 0.41.0
